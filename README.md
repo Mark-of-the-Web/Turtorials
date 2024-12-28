@@ -1,2 +1,2 @@
-# Turtorials
+# Tutorials
 Contains all Tutorials 
